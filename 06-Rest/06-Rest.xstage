@@ -10,6 +10,7 @@
    <drawings>
     <dwg name="001" scaleFactor="1"/>
     <dwg name="004" scaleFactor="1"/>
+    <dwg name="1" scaleFactor="1"/>
    </drawings>
   </element>
   <element id="5" elementName="YB-Pass2" elementFolder="YB-Pass2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -43,7 +44,7 @@
     <column type="0" name="Drawing" displayOrder="3" width="100" anonymous="true" id="1">
      <elementSeq exposures="1-120" val="1" id="1"/>
     </column>
-    <column type="0" name="ATV-08D685B9B8904044" display="false" displayOrder="4" width="100" anonymous="true" id="4">
+    <column type="0" name="ATV-08D685B9B8904044" displayOrder="4" width="100" anonymous="true" id="4">
      <elementSeq exposures="1-3" val="001" id="4"/>
      <elementSeq exposures="4-6" val="004" id="4"/>
     </column>
@@ -53,7 +54,7 @@
     </column>
     <column type="0" name="ATV-08D685B9B8907D23" displayOrder="1" width="100" anonymous="true" id="6">
      <elementSeq exposures="1-3" val="1" id="6"/>
-     <elementSeq exposures="4-5" val="2" id="6"/>
+     <elementSeq exposures="4-6" val="2" id="6"/>
     </column>
    </columns>
    <options>
@@ -221,7 +222,6 @@
      </module>
      <module type="READ" name="YB" pos="0,0,0" publishUnderTab="YB">
       <options>
-       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
