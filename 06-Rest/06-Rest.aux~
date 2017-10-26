@@ -1,11 +1,14 @@
 <!DOCTYPE SceneVersion>
 <SceneVersion VersionName="06-Rest" ID="1">
- <Element Name="BG" ID="1" Folder="BG">
+ <Element Name="BG_White_Rect" ID="1" Folder="BG_White_Rect">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
  <Element Name="YB" ID="4" Folder="YB">
   <Drawing Key="" Name="001" Version="1"/>
   <Drawing Key="" Name="004" Version="1"/>
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="010" Version="1"/>
+  <Drawing Key="" Name="013" Version="1"/>
  </Element>
  <Element Name="YB-Pass2" ID="5" Folder="YB-Pass2">
   <Drawing Key="" Name="1" Version="1"/>
@@ -14,5 +17,7 @@
  <Element Name="Y-Pass3" ID="6" Folder="Y-Pass3">
   <Drawing Key="" Name="1" Version="1"/>
   <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="3" Version="1"/>
+  <Drawing Key="" Name="4" Version="1"/>
  </Element>
 </SceneVersion>

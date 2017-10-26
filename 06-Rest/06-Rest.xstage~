@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project source="Harmony Advanced (HarmonyAdvanced.exe) version 14.0.0 build 11461 2016-06-21 14:02:21" version="1400" build="11461" creator="harmony">
  <elements>
-  <element id="1" elementName="BG" elementFolder="BG" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+  <element id="1" elementName="BG_White_Rect" elementFolder="BG_White_Rect" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1" scaleFactor="1"/>
    </drawings>
@@ -10,6 +10,9 @@
    <drawings>
     <dwg name="001" scaleFactor="1"/>
     <dwg name="004" scaleFactor="1"/>
+    <dwg name="1" scaleFactor="1"/>
+    <dwg name="010" scaleFactor="1"/>
+    <dwg name="013" scaleFactor="1"/>
    </drawings>
   </element>
   <element id="5" elementName="YB-Pass2" elementFolder="YB-Pass2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -22,6 +25,8 @@
    <drawings>
     <dwg name="1" scaleFactor="1"/>
     <dwg name="2" scaleFactor="1"/>
+    <dwg name="3" scaleFactor="1"/>
+    <dwg name="4" scaleFactor="1"/>
    </drawings>
   </element>
  </elements>
@@ -38,22 +43,26 @@
  </options>
  <timelineMarkers/>
  <scenes>
-  <scene name="Top" id="08d685274de0084d" nbframes="120">
+  <scene name="Top" id="08d685274de0084d" nbframes="11">
    <columns>
-    <column type="0" name="Drawing" displayOrder="3" width="100" anonymous="true" id="1">
+    <column type="0" name="BG_White_Rect" displayOrder="3" width="100" anonymous="true" id="1">
      <elementSeq exposures="1-120" val="1" id="1"/>
     </column>
-    <column type="0" name="ATV-08D685B9B8904044" display="false" displayOrder="4" width="100" anonymous="true" id="4">
+    <column type="0" name="ATV-08D685B9B8904044" displayOrder="4" width="100" anonymous="true" id="4">
      <elementSeq exposures="1-3" val="001" id="4"/>
      <elementSeq exposures="4-6" val="004" id="4"/>
+     <elementSeq exposures="10-12" val="010" id="4"/>
+     <elementSeq exposures="13-15" val="013" id="4"/>
     </column>
-    <column type="0" name="ATV-08D685B9B8904A6F" display="false" displayOrder="2" width="100" anonymous="true" id="5">
+    <column type="0" name="ATV-08D685B9B8904A6F" displayOrder="2" width="100" anonymous="true" id="5">
      <elementSeq exposures="1-3" val="1" id="5"/>
      <elementSeq exposures="4-5" val="2" id="5"/>
     </column>
     <column type="0" name="ATV-08D685B9B8907D23" displayOrder="1" width="100" anonymous="true" id="6">
      <elementSeq exposures="1-3" val="1" id="6"/>
-     <elementSeq exposures="4-5" val="2" id="6"/>
+     <elementSeq exposures="4-6" val="2" id="6"/>
+     <elementSeq exposures="7-9" val="3" id="6"/>
+     <elementSeq exposures="10-11" val="4" id="6"/>
     </column>
    </columns>
    <options>
@@ -115,7 +124,7 @@
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="BG" pos="-65,-50,0" publishUnderTab="Drawing">
+     <module type="READ" name="BG_White_Rect" pos="-65,-50,0" publishUnderTab="Drawing">
       <options>
        <version val="1"/>
        <collapsed val="false"/>
@@ -175,7 +184,7 @@
        <ikStiffness val="1" defaultValue="1"/>
        <drawing>
         <elementMode val="true"/>
-        <element col="Drawing">
+        <element col="BG_White_Rect">
          <layer/>
         </element>
         <customName>
@@ -221,7 +230,6 @@
      </module>
      <module type="READ" name="YB" pos="0,0,0" publishUnderTab="YB">
       <options>
-       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
@@ -537,7 +545,7 @@
     <linkedlist>
      <link out="Composite" in="Display"/>
      <link out="Composite" in="Write"/>
-     <link out="BG" in="Composite" inport="1"/>
+     <link out="BG_White_Rect" in="Composite" inport="1"/>
      <link out="YB" in="Composite" inport="0"/>
      <link out="YB-Pass2" in="Composite" inport="2"/>
      <link out="Y-Pass3" in="Composite" inport="3"/>
