@@ -35,20 +35,26 @@
   <Drawing Key="" Name="5" Version="1"/>
   <Drawing Key="" Name="6" Version="1"/>
   <Drawing Key="" Name="7" Version="1"/>
- </Element>
- <Element Name="Y-Pass3" ID="6" Folder="Y-Pass3">
-  <Drawing Key="" Name="1" Version="1"/>
-  <Drawing Key="" Name="2" Version="1"/>
-  <Drawing Key="" Name="3" Version="1"/>
-  <Drawing Key="" Name="4" Version="1"/>
-  <Drawing Key="" Name="5" Version="1"/>
-  <Drawing Key="" Name="6" Version="1"/>
-  <Drawing Key="" Name="7" Version="1"/>
   <Drawing Key="" Name="8" Version="1"/>
   <Drawing Key="" Name="9" Version="1"/>
   <Drawing Key="" Name="10" Version="1"/>
-  <Drawing Key="" Name="11" Version="1"/>
-  <Drawing Key="" Name="12" Version="1"/>
+ </Element>
+ <Element Name="Y-Pass3" ID="6" Folder="Y-Pass3">
+  <Drawing Key="Key" Name="1" Version="1"/>
+  <Drawing Key="Key" Name="2" Version="1"/>
+  <Drawing Key="Key" Name="3" Version="1"/>
+  <Drawing Key="Key" Name="4" Version="1"/>
+  <Drawing Key="Key" Name="5" Version="1"/>
+  <Drawing Key="Key" Name="6" Version="1"/>
+  <Drawing Key="Key" Name="7" Version="1"/>
+  <Drawing Key="Key" Name="8" Version="1"/>
+  <Drawing Key="Key" Name="9" Version="1"/>
+  <Drawing Key="Key" Name="10" Version="1"/>
+  <Drawing Key="Key" Name="11" Version="1"/>
+  <Drawing Key="Key" Name="12" Version="1"/>
+  <Drawing Key="Key" Name="13" Version="1"/>
+  <Drawing Key="Key" Name="14" Version="1"/>
+  <Drawing Key="Key" Name="15" Version="1"/>
  </Element>
  <Element Name="FG,_Bushes" ID="8" Folder="FG,_Bushes">
   <Drawing Key="" Name="Bushes" Version="1"/>
@@ -58,5 +64,35 @@
  </Element>
  <Element Name="BG,Rocks" ID="10" Folder="BG,Rocks">
   <Drawing Key="" Name="Rocks" Version="1"/>
+ </Element>
+ <Element Name="OB" ID="12" Folder="OB">
+  <Drawing Key="" Name="007" Version="1"/>
+  <Drawing Key="" Name="010" Version="1"/>
+  <Drawing Key="" Name="013" Version="1"/>
+  <Drawing Key="" Name="016" Version="1"/>
+  <Drawing Key="" Name="019" Version="1"/>
+  <Drawing Key="" Name="022" Version="1"/>
+  <Drawing Key="" Name="025" Version="1"/>
+  <Drawing Key="" Name="028" Version="1"/>
+  <Drawing Key="" Name="031" Version="1"/>
+  <Drawing Key="" Name="034" Version="1"/>
+  <Drawing Key="" Name="037" Version="1"/>
+  <Drawing Key="" Name="040" Version="1"/>
+  <Drawing Key="" Name="043" Version="1"/>
+  <Drawing Key="" Name="046" Version="1"/>
+  <Drawing Key="" Name="049" Version="1"/>
+  <Drawing Key="" Name="052" Version="1"/>
+  <Drawing Key="" Name="055" Version="1"/>
+  <Drawing Key="" Name="058" Version="1"/>
+  <Drawing Key="" Name="061" Version="1"/>
+  <Drawing Key="" Name="067" Version="1"/>
+  <Drawing Key="" Name="072" Version="1"/>
+  <Drawing Key="" Name="083" Version="1"/>
+  <Drawing Key="" Name="101" Version="1"/>
+ </Element>
+ <Element Name="1st-Monkey" ID="13" Folder="1st-Monkey">
+  <Drawing Key="" Name="085" Version="1"/>
+  <Drawing Key="" Name="089" Version="1"/>
+  <Drawing Key="" Name="093" Version="1"/>
  </Element>
 </SceneVersion>
