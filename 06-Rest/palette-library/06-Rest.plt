@@ -5,3 +5,4 @@ Solid    White                      0x08d685274de0085b 255 255 255 255
 Solid    Red                        0x08d685274de0085d 255   0   0 255
 Solid    Blue                       0x08d685274de00861   0   0 255 255
 Solid    "Vectorized Line"          0x0000000000000003   0   0   0 255
+Solid    "New 0"                    0x08d74ba15ed22aef 255  71 122 255
