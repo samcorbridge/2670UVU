@@ -4,4 +4,7 @@
  <element id="4" elementName="YB" elementFolder="YB" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="5" elementName="YB-Pass2" elementFolder="YB-Pass2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="6" elementName="Y-Pass3" elementFolder="Y-Pass3" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="8" elementName="FG,_Bushes" elementFolder="FG,_Bushes" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="9" elementName="FG,_Tree" elementFolder="FG,_Tree" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="10" elementName="BG,Rocks" elementFolder="BG,Rocks" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
