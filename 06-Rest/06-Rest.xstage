@@ -172,6 +172,9 @@
     <dwg name="15" scaleFactor="1" key="0"/>
     <dwg name="16" scaleFactor="1" key="0"/>
     <dwg name="17" scaleFactor="1" key="0"/>
+    <dwg name="18" scaleFactor="1" key="0"/>
+    <dwg name="19" scaleFactor="1" key="0"/>
+    <dwg name="20" scaleFactor="1" key="0"/>
    </drawings>
   </element>
   <element id="20" elementName="YB_Roughs" elementFolder="YB_Roughs" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
@@ -331,9 +334,12 @@
      <elementSeq exposures="34-36" val="11" id="19"/>
      <elementSeq exposures="37-39" val="12" id="19"/>
      <elementSeq exposures="40-42" val="13" id="19"/>
-     <elementSeq exposures="43-45,56-82" val="14" id="19"/>
+     <elementSeq exposures="43-45" val="14" id="19"/>
      <elementSeq exposures="46-48" val="16" id="19"/>
      <elementSeq exposures="49-51" val="17" id="19"/>
+     <elementSeq exposures="52-54" val="18" id="19"/>
+     <elementSeq exposures="55-57" val="19" id="19"/>
+     <elementSeq exposures="58-60" val="20" id="19"/>
      <elementSeq exposures="83-85" val="15" id="19"/>
     </column>
     <column type="0" name="ATV-08D7B90B91F33AB5" display="false" displayOrder="7" width="100" anonymous="true" id="20"/>
