@@ -107,8 +107,18 @@
   <Drawing Key="" Name="5" Version="1"/>
   <Drawing Key="" Name="6" Version="1"/>
   <Drawing Key="" Name="7" Version="1"/>
+  <Drawing Key="" Name="8" Version="1"/>
  </Element>
  <Element Name="2nd_Monkey-2nd_Pass" ID="16" Folder="2nd_Monkey-2nd_Pass">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="3" Version="1"/>
+  <Drawing Key="" Name="4" Version="1"/>
+  <Drawing Key="" Name="5" Version="1"/>
+  <Drawing Key="" Name="6" Version="1"/>
+  <Drawing Key="" Name="7" Version="1"/>
+ </Element>
+ <Element Name="3rd_Monkey-2nd-Pass" ID="17" Folder="3rd_Monkey-2nd-Pass">
   <Drawing Key="" Name="1" Version="1"/>
   <Drawing Key="" Name="2" Version="1"/>
   <Drawing Key="" Name="3" Version="1"/>

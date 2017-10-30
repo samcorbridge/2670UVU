@@ -127,6 +127,7 @@
     <dwg name="5" scaleFactor="1"/>
     <dwg name="6" scaleFactor="1"/>
     <dwg name="7" scaleFactor="1"/>
+    <dwg name="8" scaleFactor="1"/>
    </drawings>
   </element>
   <element id="16" elementName="2nd_Monkey-2nd_Pass" elementFolder="2nd_Monkey-2nd_Pass" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -140,7 +141,17 @@
     <dwg name="7" scaleFactor="1"/>
    </drawings>
   </element>
-  <element id="17" elementName="3rd_Monkey-2nd-Pass" elementFolder="3rd_Monkey-2nd-Pass" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+  <element id="17" elementName="3rd_Monkey-2nd-Pass" elementFolder="3rd_Monkey-2nd-Pass" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1" scaleFactor="1"/>
+    <dwg name="2" scaleFactor="1"/>
+    <dwg name="3" scaleFactor="1"/>
+    <dwg name="4" scaleFactor="1"/>
+    <dwg name="5" scaleFactor="1"/>
+    <dwg name="6" scaleFactor="1"/>
+    <dwg name="7" scaleFactor="1"/>
+   </drawings>
+  </element>
  </elements>
  <options>
   <metrics unitAspectRatioX="4" unitAspectRatioY="3" numberOfUnitsX="24" numberOfUnitsY="24" numberOfUnitsZ="12"/>
@@ -155,10 +166,10 @@
  </options>
  <timelineMarkers/>
  <scenes>
-  <scene name="Top" id="08d685274de0084d" nbframes="120">
+  <scene name="Top" id="08d685274de0084d" nbframes="132">
    <columns>
     <column type="0" name="BG_White_Rect" displayOrder="10" width="100" anonymous="true" id="1">
-     <elementSeq exposures="1-120" val="1" id="1"/>
+     <elementSeq exposures="1-132" val="1" id="1"/>
     </column>
     <column type="0" name="ATV-08D685B9B8904044" displayOrder="4" width="100" anonymous="true" id="4">
      <elementSeq exposures="1-3" val="001" id="4"/>
@@ -213,13 +224,13 @@
      <elementSeq exposures="43-45" val="15" id="6"/>
     </column>
     <column type="0" name="ATV-08D74BA15ED0206B" displayOrder="1" width="100" anonymous="true" id="8">
-     <elementSeq exposures="1-120" val="Bushes" id="8"/>
+     <elementSeq exposures="1-132" val="Bushes" id="8"/>
     </column>
     <column type="0" name="ATV-08D74BA15ED02C30" displayOrder="11" width="100" anonymous="true" id="9">
      <elementSeq exposures="1-120" val="Tree" id="9"/>
     </column>
     <column type="0" name="ATV-08D74BA15ED0354B" displayOrder="9" width="100" anonymous="true" id="10">
-     <elementSeq exposures="1-120" val="Rocks" id="10"/>
+     <elementSeq exposures="1-132" val="Rocks" id="10"/>
     </column>
     <column type="0" name="ATV-08D74BA15ED80507" display="false" displayOrder="5" width="100" anonymous="true" id="12">
      <elementSeq exposures="7-9" val="007" id="12"/>
@@ -263,6 +274,7 @@
      <elementSeq exposures="101-104" val="5" id="14"/>
      <elementSeq exposures="105-108" val="6" id="14"/>
      <elementSeq exposures="109-113" val="7" id="14"/>
+     <elementSeq exposures="114-117" val="8" id="14"/>
     </column>
     <column type="0" name="ATV-08D7B90B91F0B9AE" displayOrder="7" width="100" anonymous="true" id="16">
      <elementSeq exposures="87-90" val="1" id="16"/>
@@ -273,7 +285,15 @@
      <elementSeq exposures="107-110" val="6" id="16"/>
      <elementSeq exposures="111-114" val="7" id="16"/>
     </column>
-    <column type="0" name="ATV-08D7B90B91F0F9F9" displayOrder="6" width="100" anonymous="true" id="17"/>
+    <column type="0" name="ATV-08D7B90B91F0F9F9" displayOrder="6" width="100" anonymous="true" id="17">
+     <elementSeq exposures="103-106" val="1" id="17"/>
+     <elementSeq exposures="107-110" val="2" id="17"/>
+     <elementSeq exposures="111-114" val="3" id="17"/>
+     <elementSeq exposures="115-118" val="4" id="17"/>
+     <elementSeq exposures="119-122" val="5" id="17"/>
+     <elementSeq exposures="123-126" val="6" id="17"/>
+     <elementSeq exposures="127-130" val="7" id="17"/>
+    </column>
    </columns>
    <options>
     <defaultDisplay val="Display"/>
