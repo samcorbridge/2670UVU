@@ -188,9 +188,13 @@
     <dwg name="31" scaleFactor="1" key="0"/>
     <dwg name="32" scaleFactor="1" key="0"/>
     <dwg name="33" scaleFactor="1" key="0"/>
+    <dwg name="34" scaleFactor="1" key="0"/>
+    <dwg name="35" scaleFactor="1"/>
+    <dwg name="36" scaleFactor="1"/>
    </drawings>
   </element>
   <element id="20" elementName="YB_Roughs" elementFolder="YB_Roughs" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+  <element id="21" elementName="OB_Roughs" elementFolder="OB_Roughs" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  </elements>
  <options>
   <metrics unitAspectRatioX="4" unitAspectRatioY="3" numberOfUnitsX="24" numberOfUnitsY="24" numberOfUnitsZ="12"/>
@@ -207,10 +211,10 @@
  <scenes>
   <scene name="Top" id="08d685274de0084d" nbframes="132">
    <columns>
-    <column type="0" name="BG_White_Rect" displayOrder="14" width="100" anonymous="true" id="1">
+    <column type="0" name="BG_White_Rect" displayOrder="15" width="100" anonymous="true" id="1">
      <elementSeq exposures="1-132" val="1" id="1"/>
     </column>
-    <column type="0" name="ATV-08D685B9B8904044" displayOrder="10" width="100" anonymous="true" id="4">
+    <column type="0" name="ATV-08D685B9B8904044" display="false" displayOrder="13" width="100" anonymous="true" id="4">
      <elementSeq exposures="1-3" val="001" id="4"/>
      <elementSeq exposures="4-6" val="004" id="4"/>
      <elementSeq exposures="10-12" val="010" id="4"/>
@@ -233,7 +237,7 @@
      <elementSeq exposures="83-119" val="083" id="4"/>
      <elementSeq exposures="120" val="120" id="4"/>
     </column>
-    <column type="0" name="ATV-08D685B9B8904A6F" displayOrder="9" width="100" anonymous="true" id="5">
+    <column type="0" name="ATV-08D685B9B8904A6F" display="false" displayOrder="12" width="100" anonymous="true" id="5">
      <elementSeq exposures="1-3" val="1" id="5"/>
      <elementSeq exposures="4-21" val="2" id="5"/>
      <elementSeq exposures="22-24" val="3" id="5"/>
@@ -245,33 +249,33 @@
      <elementSeq exposures="40-42" val="9" id="5"/>
      <elementSeq exposures="43-45" val="10" id="5"/>
     </column>
-    <column type="0" name="ATV-08D685B9B8907D23" displayOrder="8" width="100" anonymous="true" id="6">
-     <elementSeq exposures="1-3" val="1" id="6"/>
-     <elementSeq exposures="4-6" val="2" id="6"/>
-     <elementSeq exposures="7-9" val="3" id="6"/>
-     <elementSeq exposures="10-12" val="4" id="6"/>
-     <elementSeq exposures="13-15" val="7" id="6"/>
-     <elementSeq exposures="16-18" val="5" id="6"/>
-     <elementSeq exposures="19-21" val="6" id="6"/>
-     <elementSeq exposures="22-24" val="8" id="6"/>
-     <elementSeq exposures="25-27" val="9" id="6"/>
-     <elementSeq exposures="28-30" val="10" id="6"/>
-     <elementSeq exposures="31-33" val="11" id="6"/>
-     <elementSeq exposures="34-36" val="12" id="6"/>
-     <elementSeq exposures="37-39" val="13" id="6"/>
-     <elementSeq exposures="40-42" val="14" id="6"/>
-     <elementSeq exposures="43-45" val="15" id="6"/>
+    <column type="0" name="ATV-08D685B9B8907D23" displayOrder="11" width="100" anonymous="true" id="6">
+     <elementSeq exposures="3-5" val="1" id="6"/>
+     <elementSeq exposures="6-8" val="2" id="6"/>
+     <elementSeq exposures="9-11" val="3" id="6"/>
+     <elementSeq exposures="12-14" val="4" id="6"/>
+     <elementSeq exposures="15-17" val="7" id="6"/>
+     <elementSeq exposures="18-20" val="5" id="6"/>
+     <elementSeq exposures="21-23" val="6" id="6"/>
+     <elementSeq exposures="24-26" val="8" id="6"/>
+     <elementSeq exposures="27-29" val="9" id="6"/>
+     <elementSeq exposures="30-32" val="10" id="6"/>
+     <elementSeq exposures="33-35" val="11" id="6"/>
+     <elementSeq exposures="36-38" val="12" id="6"/>
+     <elementSeq exposures="39-41" val="13" id="6"/>
+     <elementSeq exposures="42-44" val="14" id="6"/>
+     <elementSeq exposures="45-47" val="15" id="6"/>
     </column>
     <column type="0" name="ATV-08D74BA15ED0206B" displayOrder="1" width="100" anonymous="true" id="8">
      <elementSeq exposures="1-132" val="Bushes" id="8"/>
     </column>
-    <column type="0" name="ATV-08D74BA15ED02C30" displayOrder="15" width="100" anonymous="true" id="9">
+    <column type="0" name="ATV-08D74BA15ED02C30" displayOrder="16" width="100" anonymous="true" id="9">
      <elementSeq exposures="1-120" val="Tree" id="9"/>
     </column>
-    <column type="0" name="ATV-08D74BA15ED0354B" displayOrder="13" width="100" anonymous="true" id="10">
+    <column type="0" name="ATV-08D74BA15ED0354B" displayOrder="14" width="100" anonymous="true" id="10">
      <elementSeq exposures="1-132" val="Rocks" id="10"/>
     </column>
-    <column type="0" name="ATV-08D74BA15ED80507" displayOrder="12" width="100" anonymous="true" id="12">
+    <column type="0" name="ATV-08D74BA15ED80507" display="false" displayOrder="9" width="100" anonymous="true" id="12">
      <elementSeq exposures="7-9" val="007" id="12"/>
      <elementSeq exposures="10-12" val="010" id="12"/>
      <elementSeq exposures="13-15" val="013" id="12"/>
@@ -334,7 +338,7 @@
      <elementSeq exposures="127-130" val="7" id="17"/>
     </column>
     <column type="0" name="ATV-08D7B90B91F178A7" displayOrder="2" width="100" anonymous="true" id="18"/>
-    <column type="0" name="ATV-08D7B90B91F19592" displayOrder="11" width="100" anonymous="true" id="19">
+    <column type="0" name="ATV-08D7B90B91F19592" displayOrder="8" width="100" anonymous="true" id="19">
      <elementSeq exposures="7-9" val="1" id="19"/>
      <elementSeq exposures="10-12" val="3" id="19"/>
      <elementSeq exposures="13-15" val="4" id="19"/>
@@ -366,9 +370,13 @@
      <elementSeq exposures="91-92" val="30" id="19"/>
      <elementSeq exposures="93-96" val="31" id="19"/>
      <elementSeq exposures="97-102" val="32" id="19"/>
-     <elementSeq exposures="103-104" val="33" id="19"/>
+     <elementSeq exposures="103-105" val="33" id="19"/>
+     <elementSeq exposures="106-110" val="35" id="19"/>
+     <elementSeq exposures="111-124" val="34" id="19"/>
+     <elementSeq exposures="125-132" val="36" id="19"/>
     </column>
-    <column type="0" name="ATV-08D7B90B91F33AB5" displayOrder="7" width="100" anonymous="true" id="20"/>
+    <column type="0" name="ATV-08D7B90B91F33AB5" displayOrder="10" width="100" anonymous="true" id="20"/>
+    <column type="0" name="ATV-08D7CCB6C9AFFE14" displayOrder="7" width="100" anonymous="true" id="21"/>
    </columns>
    <options>
     <defaultDisplay val="Display"/>
@@ -954,6 +962,7 @@
      </module>
      <module type="READ" name="OB" pos="0,0,0" publishUnderTab="OB">
       <options>
+       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="true"/>
       </options>
@@ -1790,11 +1799,115 @@
        <canAnimate val="true"/>
       </attrs>
      </module>
+     <module type="READ" name="OB_Roughs" pos="0,0,0" publishUnderTab="OB_Roughs">
+      <options>
+       <version val="1"/>
+       <collapsed val="true"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ATV-08D7CCB6C9AFFE14">
+         <layer/>
+        </element>
+        <customName>
+         <name/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="true"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
+      </attrs>
+     </module>
      <module type="READ" name="YB_Roughs" pos="0,0,0" publishUnderTab="YB_Roughs">
       <options>
        <disabled val="true"/>
        <version val="1"/>
-       <collapsed val="true"/>
+       <collapsed val="false"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -2003,28 +2116,31 @@
     <linkedlist>
      <link out="Composite" in="Display"/>
      <link out="Composite" in="Write"/>
-     <link out="YB" in="Composite" inport="5"/>
-     <link out="YB-Pass2" in="Composite" inport="6"/>
-     <link out="FG,_Bushes" in="Composite" inport="14"/>
-     <link out="Y-Pass3" in="Composite" inport="7"/>
+     <link out="YB" in="Composite" inport="3"/>
+     <link out="YB-Pass2" in="Composite" inport="4"/>
+     <link out="FG,_Bushes" in="Composite" inport="15"/>
+     <link out="Y-Pass3" in="Composite" inport="5"/>
      <link out="Monkies_Roughs" in="1st_Monkey-2nd_Pass"/>
      <link out="Monkies_Roughs" in="2nd_Monkey-2nd_Pass"/>
      <link out="Monkies_Roughs" in="3rd_Monkey-2nd-Pass"/>
      <link out="Monkies_Roughs" in="1st-Monkey"/>
-     <link out="Monkies_Roughs" in="Composite" inport="13"/>
-     <link out="OB" in="Composite" inport="3"/>
-     <link out="3rd_Monkey-2nd-Pass" in="Composite" inport="9"/>
-     <link out="2nd_Monkey-2nd_Pass" in="Composite" inport="10"/>
-     <link out="1st_Monkey-2nd_Pass" in="Composite" inport="11"/>
-     <link out="1st-Monkey" in="Composite" inport="8"/>
+     <link out="Monkies_Roughs" in="Composite" inport="14"/>
+     <link out="OB" in="Composite" inport="11"/>
+     <link out="3rd_Monkey-2nd-Pass" in="Composite" inport="7"/>
+     <link out="2nd_Monkey-2nd_Pass" in="Composite" inport="8"/>
+     <link out="1st_Monkey-2nd_Pass" in="Composite" inport="9"/>
+     <link out="1st-Monkey" in="Composite" inport="6"/>
      <link out="BG,Rocks" in="Composite" inport="2"/>
      <link out="BG_White_Rect" in="Composite" inport="1"/>
      <link out="FG,_Tree" in="Composite" inport="0"/>
+     <link out="OB_Roughs" in="OB-Pass2"/>
+     <link out="OB_Roughs" in="OB"/>
+     <link out="OB_Roughs" in="Composite" inport="13"/>
      <link out="YB_Roughs" in="Y-Pass3"/>
      <link out="YB_Roughs" in="YB-Pass2"/>
      <link out="YB_Roughs" in="YB"/>
-     <link out="YB_Roughs" in="Composite" inport="12"/>
-     <link out="OB-Pass2" in="Composite" inport="4"/>
+     <link out="YB_Roughs" in="Composite" inport="10"/>
+     <link out="OB-Pass2" in="Composite" inport="12"/>
     </linkedlist>
    </rootgroup>
   </scene>
