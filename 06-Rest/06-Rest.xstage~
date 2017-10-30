@@ -177,6 +177,17 @@
     <dwg name="20" scaleFactor="1" key="0"/>
     <dwg name="21" scaleFactor="1" key="0"/>
     <dwg name="22" scaleFactor="1" key="0"/>
+    <dwg name="23" scaleFactor="1" key="0"/>
+    <dwg name="24" scaleFactor="1" key="0"/>
+    <dwg name="25" scaleFactor="1" key="0"/>
+    <dwg name="26" scaleFactor="1" key="0"/>
+    <dwg name="27" scaleFactor="1" key="0"/>
+    <dwg name="28" scaleFactor="1" key="0"/>
+    <dwg name="29" scaleFactor="1" key="0"/>
+    <dwg name="30" scaleFactor="1" key="0"/>
+    <dwg name="31" scaleFactor="1" key="0"/>
+    <dwg name="32" scaleFactor="1" key="0"/>
+    <dwg name="33" scaleFactor="1" key="0"/>
    </drawings>
   </element>
   <element id="20" elementName="YB_Roughs" elementFolder="YB_Roughs" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
@@ -344,7 +355,18 @@
      <elementSeq exposures="58-60" val="20" id="19"/>
      <elementSeq exposures="61-63" val="21" id="19"/>
      <elementSeq exposures="64-66" val="22" id="19"/>
-     <elementSeq exposures="83-85" val="15" id="19"/>
+     <elementSeq exposures="67-69" val="23" id="19"/>
+     <elementSeq exposures="70-72" val="24" id="19"/>
+     <elementSeq exposures="73-75" val="25" id="19"/>
+     <elementSeq exposures="76-82" val="26" id="19"/>
+     <elementSeq exposures="83-84" val="15" id="19"/>
+     <elementSeq exposures="85-86" val="27" id="19"/>
+     <elementSeq exposures="87-88" val="28" id="19"/>
+     <elementSeq exposures="89-90" val="29" id="19"/>
+     <elementSeq exposures="91-92" val="30" id="19"/>
+     <elementSeq exposures="93-96" val="31" id="19"/>
+     <elementSeq exposures="97-102" val="32" id="19"/>
+     <elementSeq exposures="103-104" val="33" id="19"/>
     </column>
     <column type="0" name="ATV-08D7B90B91F33AB5" displayOrder="7" width="100" anonymous="true" id="20"/>
    </columns>
