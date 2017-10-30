@@ -12,4 +12,7 @@
  <element id="14" elementName="1st_Monkey-2nd_Pass" elementFolder="1st_Monkey-2nd_Pass" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="16" elementName="2nd_Monkey-2nd_Pass" elementFolder="2nd_Monkey-2nd_Pass" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="17" elementName="3rd_Monkey-2nd-Pass" elementFolder="3rd_Monkey-2nd-Pass" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="18" elementName="Monkies_Roughs" elementFolder="Monkies_Roughs" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="19" elementName="OB-Pass2" elementFolder="OB-Pass2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="20" elementName="YB_Roughs" elementFolder="YB_Roughs" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
