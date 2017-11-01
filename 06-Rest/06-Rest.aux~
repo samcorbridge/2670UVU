@@ -61,7 +61,15 @@
   <Drawing Key="Key" Name="19" Version="1"/>
   <Drawing Key="Key" Name="20" Version="1"/>
   <Drawing Key="" Name="21" Version="1"/>
-  <Drawing Key="" Name="22" Version="1"/>
+  <Drawing Key="Key" Name="22" Version="1"/>
+  <Drawing Key="Key" Name="23" Version="1"/>
+  <Drawing Key="Key" Name="24" Version="1"/>
+  <Drawing Key="Key" Name="25" Version="1"/>
+  <Drawing Key="Key" Name="26" Version="1"/>
+  <Drawing Key="Key" Name="27" Version="1"/>
+  <Drawing Key="Key" Name="28" Version="1"/>
+  <Drawing Key="Key" Name="29" Version="1"/>
+  <Drawing Key="" Name="30" Version="1"/>
  </Element>
  <Element Name="FG,_Bushes" ID="8" Folder="FG,_Bushes">
   <Drawing Key="" Name="Bushes" Version="1"/>
@@ -179,6 +187,9 @@
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
  <Element Name="FG_Bushes_Pass2" ID="23" Folder="FG_Bushes_Pass2">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="FG_Bushes_Pass3" ID="24" Folder="FG_Bushes_Pass3">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
 </SceneVersion>

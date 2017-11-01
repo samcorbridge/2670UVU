@@ -18,4 +18,5 @@
  <element id="21" elementName="OB_Roughs" elementFolder="OB_Roughs" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="22" elementName="BG-Rocks-Pass2" elementFolder="BG-Rocks-Pass2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="23" elementName="FG_Bushes_Pass2" elementFolder="FG_Bushes_Pass2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="24" elementName="FG_Bushes_Pass3" elementFolder="FG_Bushes_Pass3" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
