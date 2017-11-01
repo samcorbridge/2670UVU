@@ -69,7 +69,8 @@
   <Drawing Key="Key" Name="27" Version="1"/>
   <Drawing Key="Key" Name="28" Version="1"/>
   <Drawing Key="Key" Name="29" Version="1"/>
-  <Drawing Key="" Name="30" Version="1"/>
+  <Drawing Key="Key" Name="30" Version="1"/>
+  <Drawing Key="Key" Name="31" Version="1"/>
  </Element>
  <Element Name="FG,_Bushes" ID="8" Folder="FG,_Bushes">
   <Drawing Key="" Name="Bushes" Version="1"/>

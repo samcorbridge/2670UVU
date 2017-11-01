@@ -78,6 +78,7 @@
     <dwg name="28" scaleFactor="1" key="0"/>
     <dwg name="29" scaleFactor="1" key="0"/>
     <dwg name="30" scaleFactor="1" key="0"/>
+    <dwg name="31" scaleFactor="1" key="0"/>
    </drawings>
   </element>
   <element id="8" elementName="FG,_Bushes" elementFolder="FG,_Bushes" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -305,8 +306,7 @@
      <elementSeq exposures="84-86" val="26" id="6"/>
      <elementSeq exposures="87-89" val="27" id="6"/>
      <elementSeq exposures="90-92" val="28" id="6"/>
-     <elementSeq exposures="93-100" val="29" id="6"/>
-     <elementSeq exposures="101-132" val="30" id="6"/>
+     <elementSeq exposures="93-95" val="31" id="6"/>
     </column>
     <column type="0" name="ATV-08D74BA15ED0206B" displayOrder="3" width="100" anonymous="true" id="8">
      <elementSeq exposures="1-132" val="Bushes" id="8"/>
