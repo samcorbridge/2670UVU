@@ -94,5 +94,84 @@
   <Drawing Key="" Name="085" Version="1"/>
   <Drawing Key="" Name="089" Version="1"/>
   <Drawing Key="" Name="093" Version="1"/>
+  <Drawing Key="" Name="097" Version="1"/>
+  <Drawing Key="" Name="101" Version="1"/>
+  <Drawing Key="" Name="105" Version="1"/>
+  <Drawing Key="" Name="109" Version="1"/>
+ </Element>
+ <Element Name="1st_Monkey-2nd_Pass" ID="14" Folder="1st_Monkey-2nd_Pass">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="3" Version="1"/>
+  <Drawing Key="" Name="4" Version="1"/>
+  <Drawing Key="" Name="5" Version="1"/>
+  <Drawing Key="" Name="6" Version="1"/>
+  <Drawing Key="" Name="7" Version="1"/>
+  <Drawing Key="" Name="8" Version="1"/>
+ </Element>
+ <Element Name="2nd_Monkey-2nd_Pass" ID="16" Folder="2nd_Monkey-2nd_Pass">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="3" Version="1"/>
+  <Drawing Key="" Name="4" Version="1"/>
+  <Drawing Key="" Name="5" Version="1"/>
+  <Drawing Key="" Name="6" Version="1"/>
+  <Drawing Key="" Name="7" Version="1"/>
+ </Element>
+ <Element Name="3rd_Monkey-2nd-Pass" ID="17" Folder="3rd_Monkey-2nd-Pass">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="3" Version="1"/>
+  <Drawing Key="" Name="4" Version="1"/>
+  <Drawing Key="" Name="5" Version="1"/>
+  <Drawing Key="" Name="6" Version="1"/>
+  <Drawing Key="" Name="7" Version="1"/>
+ </Element>
+ <Element Name="Monkies_Roughs" ID="18" Folder="Monkies_Roughs"/>
+ <Element Name="OB-Pass2" ID="19" Folder="OB-Pass2">
+  <Drawing Key="Key" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="Key" Name="3" Version="1"/>
+  <Drawing Key="Key" Name="4" Version="1"/>
+  <Drawing Key="Key" Name="5" Version="1"/>
+  <Drawing Key="Key" Name="6" Version="1"/>
+  <Drawing Key="Key" Name="7" Version="1"/>
+  <Drawing Key="Key" Name="8" Version="1"/>
+  <Drawing Key="Key" Name="9" Version="1"/>
+  <Drawing Key="Key" Name="10" Version="1"/>
+  <Drawing Key="Key" Name="11" Version="1"/>
+  <Drawing Key="Key" Name="12" Version="1"/>
+  <Drawing Key="Key" Name="13" Version="1"/>
+  <Drawing Key="Key" Name="14" Version="1"/>
+  <Drawing Key="Key" Name="15" Version="1"/>
+  <Drawing Key="Key" Name="16" Version="1"/>
+  <Drawing Key="Key" Name="17" Version="1"/>
+  <Drawing Key="Key" Name="18" Version="1"/>
+  <Drawing Key="Key" Name="19" Version="1"/>
+  <Drawing Key="Key" Name="20" Version="1"/>
+  <Drawing Key="Key" Name="21" Version="1"/>
+  <Drawing Key="Key" Name="22" Version="1"/>
+  <Drawing Key="Key" Name="23" Version="1"/>
+  <Drawing Key="Key" Name="24" Version="1"/>
+  <Drawing Key="Key" Name="25" Version="1"/>
+  <Drawing Key="Key" Name="26" Version="1"/>
+  <Drawing Key="Key" Name="27" Version="1"/>
+  <Drawing Key="Key" Name="28" Version="1"/>
+  <Drawing Key="Key" Name="29" Version="1"/>
+  <Drawing Key="Key" Name="30" Version="1"/>
+  <Drawing Key="Key" Name="31" Version="1"/>
+  <Drawing Key="Key" Name="32" Version="1"/>
+  <Drawing Key="Key" Name="33" Version="1"/>
+  <Drawing Key="Key" Name="34" Version="1"/>
+  <Drawing Key="" Name="35" Version="1"/>
+  <Drawing Key="" Name="36" Version="1"/>
+ </Element>
+ <Element Name="YB_Roughs" ID="20" Folder="YB_Roughs"/>
+ <Element Name="OB_Roughs" ID="21" Folder="OB_Roughs"/>
+ <Element Name="BG-Rocks-Pass2" ID="22" Folder="BG-Rocks-Pass2">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="FG_Bushes_Pass2" ID="23" Folder="FG_Bushes_Pass2">
+  <Drawing Key="" Name="1" Version="1"/>
  </Element>
 </SceneVersion>
