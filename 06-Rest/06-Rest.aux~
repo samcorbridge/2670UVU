@@ -55,6 +55,13 @@
   <Drawing Key="Key" Name="13" Version="1"/>
   <Drawing Key="Key" Name="14" Version="1"/>
   <Drawing Key="Key" Name="15" Version="1"/>
+  <Drawing Key="Key" Name="16" Version="1"/>
+  <Drawing Key="Key" Name="17" Version="1"/>
+  <Drawing Key="Key" Name="18" Version="1"/>
+  <Drawing Key="Key" Name="19" Version="1"/>
+  <Drawing Key="Key" Name="20" Version="1"/>
+  <Drawing Key="" Name="21" Version="1"/>
+  <Drawing Key="" Name="22" Version="1"/>
  </Element>
  <Element Name="FG,_Bushes" ID="8" Folder="FG,_Bushes">
   <Drawing Key="" Name="Bushes" Version="1"/>
