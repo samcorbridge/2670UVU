@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elements source="Harmony Advanced (HarmonyAdvanced.exe) version 14.0.0 build 11461 2016-06-21 14:02:21" version="1400" build="11461">
+ <element id="1" elementName="BG_White_Rect" elementFolder="BG_White_Rect" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="4" elementName="YB" elementFolder="YB" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="5" elementName="YB-Pass2" elementFolder="YB-Pass2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="6" elementName="Y-Pass3" elementFolder="Y-Pass3" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="8" elementName="FG,_Bushes" elementFolder="FG,_Bushes" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="9" elementName="FG,_Tree" elementFolder="FG,_Tree" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="10" elementName="BG,Rocks" elementFolder="BG,Rocks" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="12" elementName="OB" elementFolder="OB" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="13" elementName="1st-Monkey" elementFolder="1st-Monkey" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="14" elementName="1st_Monkey-2nd_Pass" elementFolder="1st_Monkey-2nd_Pass" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="16" elementName="2nd_Monkey-2nd_Pass" elementFolder="2nd_Monkey-2nd_Pass" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="17" elementName="3rd_Monkey-2nd-Pass" elementFolder="3rd_Monkey-2nd-Pass" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="18" elementName="Monkies_Roughs" elementFolder="Monkies_Roughs" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="19" elementName="OB-Pass2" elementFolder="OB-Pass2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="20" elementName="YB_Roughs" elementFolder="YB_Roughs" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="21" elementName="OB_Roughs" elementFolder="OB_Roughs" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="22" elementName="BG-Rocks-Pass2" elementFolder="BG-Rocks-Pass2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="23" elementName="FG_Bushes_Pass2" elementFolder="FG_Bushes_Pass2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="24" elementName="FG_Bushes_Pass3" elementFolder="FG_Bushes_Pass3" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="25" elementName="YB-OnModel-01" elementFolder="YB-OnModel-01" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="26" elementName="YB-OnModel-02" elementFolder="YB-OnModel-02" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+</elements>
